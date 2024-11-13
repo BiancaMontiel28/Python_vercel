@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "python_vercel_task/python_vercel_task/wsgi.py"
+      "dest": "python_vercel_task/wsgi.py"
     }
   ]
 }
